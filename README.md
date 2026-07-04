@@ -2,6 +2,12 @@
 
 A full-stack student housing platform that helps students find verified accommodations and compatible roommates without relying on brokers.
 
+## 🌐 Live Demo
+
+🚀 **Website:** https://campusnest-roommate-finder.vercel.app
+
+---
+
 ## 🚀 Overview
 
 CampusNest simplifies the student housing experience by connecting students directly with landlords and potential roommates through a modern web platform.
@@ -14,31 +20,31 @@ The platform provides property discovery, roommate matching, landlord verificati
 
 ### 👨‍🎓 Student Module
 
-* Browse verified rental properties
-* Search accommodations by location
-* Find compatible roommates
-* Direct communication with landlords
-* Personalized housing recommendations
+- Browse verified rental properties
+- Search accommodations by location
+- Find compatible roommates
+- Direct communication with landlords
+- Personalized housing recommendations
 
 ### 🏠 Landlord Module
 
-* Property listing management
-* Property verification workflow
-* Tenant inquiry handling
-* Secure document submission
+- Property listing management
+- Property verification workflow
+- Tenant inquiry handling
+- Secure document submission
 
 ### 🔐 Admin Module
 
-* User verification system
-* Property approval management
-* Subscription verification
-* Platform moderation
+- User verification system
+- Property approval management
+- Subscription verification
+- Platform moderation
 
 ### 🤖 AI NestBot
 
-* Housing guidance assistant
-* Roommate matching suggestions
-* Student accommodation support
+- Housing guidance assistant
+- Roommate matching suggestions
+- Student accommodation support
 
 ---
 
@@ -46,28 +52,28 @@ The platform provides property discovery, roommate matching, landlord verificati
 
 ### Frontend
 
-* React.js
-* Vite
-* Tailwind CSS
-* JavaScript
-* Lucide React
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- Lucide React
 
 ### Backend
 
-* Java 25
-* Spring Boot
-* Spring Security
-* Maven
+- Java 25
+- Spring Boot
+- Spring Security
+- Maven
 
 ### Database
 
-* PostgreSQL
-* Neon Cloud Database
+- PostgreSQL
+- Neon Cloud Database
 
 ### Deployment
 
-* Docker
-* Vercel
+- Docker
+- Vercel
 
 ---
 
@@ -119,14 +125,16 @@ npm run dev
 
 ## 🔑 Key Highlights
 
-* Full-Stack Architecture
-* RESTful APIs
-* Secure Authentication
-* PostgreSQL Integration
-* Responsive UI
-* Cloud Database Support
-* Roommate Matching System
-* Broker-Free Housing Platform
+- ✅ Full-Stack Architecture
+- ✅ RESTful APIs
+- ✅ Secure Authentication
+- ✅ PostgreSQL Integration
+- ✅ Responsive UI
+- ✅ Cloud Database Support
+- ✅ Roommate Matching System
+- ✅ Broker-Free Housing Platform
+- ✅ AI-Powered Housing Assistant
+- ✅ Deployed on Vercel
 
 ---
 
@@ -134,27 +142,30 @@ npm run dev
 
 Add screenshots of:
 
-* Home Page
-* Property Listing Page
-* Roommate Finder Module
-* Dashboard
-* AI NestBot Interface
+- Home Page
+- Property Listing Page
+- Roommate Finder Module
+- Dashboard
+- AI NestBot Interface
 
 ---
 
 ## 📈 Future Enhancements
 
-* Real-Time Chat
-* Advanced AI Matching
-* Mobile Application
-* Google Maps Integration
-* Payment Gateway Support
+- Real-Time Chat
+- Advanced AI Matching
+- Mobile Application
+- Google Maps Integration
+- Payment Gateway Support
 
 ---
 
 ## 👨‍💻 Author
 
-Priyansh Kushwaha
+**Priyansh Kushwaha**
 
-GitHub:
+🔗 **GitHub:**  
 https://github.com/priyansh-27
+
+🌐 **Live Demo:**  
+https://campusnest-roommate-finder.vercel.app
